@@ -15,6 +15,10 @@ Contact: <happystepsapp [at] proton.me>
 
 ## ❤️ Find happiness, step by step
 
+Every day, review your level of happiness, and predict it for the next few days.
+Write to your future self, and step by step, come happier!
+Analyze your happiness levels, compare with your predictions, and review what makes you most happy.
+
 
 ## 📱 Screenshots
 
