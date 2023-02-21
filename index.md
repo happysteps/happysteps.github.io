@@ -13,12 +13,9 @@ Contact: <happystepsapp [at] proton.me>
  <a href="http://itunes.apple.com/app/1672621191"><img height=75 src="/img/appstore.svg" alt="Download for iOS" /></a>
 </center>
 
-## ❤️ Find happiness, step by step
+## 🎈 Find happiness, step by step
 
-Every day, review your level of happiness, and predict it for the next few days.
-Write to your future self, and step by step, come happier!
-Analyze your happiness levels, compare with your predictions, and review what makes you most happy.
-
+HappySteps allows you to rate and predict your happiness, review your predictions and analyze what makes you happy.
 
 ## 📱 Screenshots
 
