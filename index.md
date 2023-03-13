@@ -4,7 +4,7 @@ layout: default
 <center>
 <a href="#privacy">Privacy Policy</a>
 <br />
-Contact: <happystepsapp [at] proton.me>
+Contact: <happystepsapp [at] gmail.com>
 <br />
 <br />
 </center>
